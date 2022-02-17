@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header a{
+    color:white;
+}
+
+header{
+    background-color:darkblue;
+    padding:10px;
+}
+
+header b{
+    color:gray;
+}
+
+main h1{
+    color:orange;
+    border:3px solid violet;
+    border-radius:20px;
+    text-align:center;
+}
+
+footer p{
+    color:black;
+    background-color:lightgreen;
+    padding:3px;
+}
+
+nav a{
+    border:1px solid darkblue;
+    background-color:darkblue;
+    color:white;
+    border-radius:10px;
+    padding:3px;
+    margin:75px;
+    text-decoration:none;
+}
+
+nav{
+    margin-top:10px;
+}
+
+.product{
+    background-color:white;
+    color:darkblue;
+}
+
+.tovars{
+    background-color:white;
+    border:3px solid darkblue;
+    border-radius:10px;
+    padding:10px;
+}
+
+.info{
+
+}
+
+.osninfo{
+   color:blue; 
+}
+
+.knopkacontact{
+        background-color:white;
+        border:3px solid blue;
+        padding:5px;
+        margin-top:5px;
+        text-decoration:none;
+}
